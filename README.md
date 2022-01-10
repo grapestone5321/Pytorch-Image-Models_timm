@@ -112,5 +112,24 @@ Jarvislabs AI
 
 -------
 
+## My learning from fastai
+https://www.youtube.com/playlist?list=PLexqeSjf_hzOfQMAz9UdDb-TaP13W0WQ_
+
+
+### 1 Learning how to understand a fastai function?
+Jarvislabs AI
+
+### 2 Building fastai DataBlock step by step from scratch
+Jarvislabs AI
+
+### 3 Building fastai DataBlock for Image Segmentation
+Jarvislabs AI
+
+### 4 Use Fastai and Timm models to build and train U-Net models
+Jarvislabs AI
+
+
+-------
+
 
 
