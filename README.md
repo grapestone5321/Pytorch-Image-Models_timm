@@ -18,6 +18,7 @@ timm is a deep-learning library created by Ross Wightman and is a collection of 
 - Search for model architectures by Wildcard
 
 -------
+-------
 
 ## Deep learning pipeline in 2021 - Best practices
 https://www.youtube.com/watch?v=MTrjP5cPo44
@@ -42,7 +43,7 @@ We have used the following frameworks and tools
 
 Github repo:  https://github.com/svishnu88/CatsandDogs
 
-
+-------
 -------
 
 ## Learn Deep learning by competing a live Kaggle competition
